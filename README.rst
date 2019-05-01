@@ -45,19 +45,19 @@ Container Contents
 
 **Installed manually**
 
-tini
-miniconda
+    - tini
+    - miniconda
 
 **Installed via miniconda**
 
-notebook-5.2.x
-jupyterhub-0.8.x
-jupyterlab-0.31.x
-tornado-4.5.3
+    - notebook-5.2.x
+    - jupyterhub-0.8.x
+    - jupyterlab-0.31.x
+    - tornado-4.5.3
 
 **Installed via pip**
 
-jupyterhub-tmpauthenticator
+    - jupyterhub-tmpauthenticator
 
 
 How to Use
