@@ -19,28 +19,29 @@ Container Contents
 **Base operating system** Ubuntu Bionic Beaver (18.04)
 
 **Installed via apt**
-    bc
-    bzip2
-    ca-certificates
-    cmake
-    fonts-liberation
-    g++
-    gcc
-    gfortran
-    git
-    less
-    libgfortran3
-    locales
-    make
-    nano
-    openssh-client
-    python3
-    python3-pip
-    python3-setuptools
-    rsync
-    sudo
-    wget
-    zlib1g-dev
+
+    - bc
+    - bzip2
+    - ca-certificates
+    - cmake
+    - fonts-liberation
+    - g++
+    - gcc
+    - gfortran
+    - git
+    - less
+    - libgfortran3
+    - locales
+    - make
+    - nano
+    - openssh-client
+    - python3
+    - python3-pip
+    - python3-setuptools
+    - rsync
+    - sudo
+    - wget
+    - zlib1g-dev
 
 **Installed manually**
 
