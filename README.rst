@@ -19,6 +19,7 @@ Container Contents
 **Base operating system** Ubuntu Bionic Beaver (18.04)
 
 **Installed via apt**
+
 bc
 bzip2
 ca-certificates
