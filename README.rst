@@ -143,3 +143,8 @@ the Jupyter kernel. This happens irrespective of whether it is installed via
 conda or pip. So when installing software in your container, be vigilant with
 this. 
 
+Currently it is not possible to use the user id, gid environment variables with
+docker ADD and COPY directives as docker has not yet incorporated expansion.
+This is on their feature request list and may change in future. We will keep an
+eye on it.
+
